@@ -4,7 +4,7 @@
  */
 
 import { create } from 'zustand';
-import DubMachine from '../engine/DubMachine';
+import { DubMachine } from '../engine/DubMachine';
 import { NoteName, ScaleType } from '../engine/generative/MusicTheory';
 import { DrumStyle } from '../engine/generative/DrumPatternGenerator';
 import { MelodyCharacter } from '../engine/generative/MelodyGenerator';

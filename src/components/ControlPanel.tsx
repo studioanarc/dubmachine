@@ -8,6 +8,7 @@ const scales: { name: string; value: ScaleType }[] = [
   { name: 'Minor', value: 'minor' },
   { name: 'Dorian', value: 'dorian' },
   { name: 'Phrygian', value: 'phrygian' },
+  { name: 'Whole Tone', value: 'whole_tone' },
   { name: 'Chromatic', value: 'chromatic' },
 ]
 
